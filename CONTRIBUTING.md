@@ -78,7 +78,7 @@ Please review and adhere to our [Code of Conduct](./). We expect all contributor
 
 **Getting Help:**
 
-If you have any questions or need help with the contribution process, feel free to:
+ok If you have any questions or need help with the contribution process, feel free to:
 
 *   Open an issue on GitHub.
 *   Ask questions in the comments of relevant issues or pull requests.
